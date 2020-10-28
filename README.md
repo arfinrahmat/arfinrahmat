@@ -1,9 +1,11 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=arfinrahmat&show_icons=true)
-<br />
 
 ### Hi there 👋, I'm Arfin!
 
 **Web and Mobile Developer Enthusiast** 🚀 from Indonesia. 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=arfinrahmat&show_icons=true)
+<br />
+
 
 **Current Activity:**
 
