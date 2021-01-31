@@ -10,6 +10,7 @@
 **Current Activity:**
 
 - 💻 I'm currently learning mobile app development using kotlin.
+- 💻 I'm currently learning mobile app development using react native.
 - 💻 I’m currently learning Javascript.
 - 🤔 My interests are learning about mobile and web development, include front-end and backend development.
 - 💼 I’m Bachelor's degree in Industrial Engineering.
@@ -20,6 +21,7 @@
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactnative/reactnative.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
