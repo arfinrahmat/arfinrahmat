@@ -3,14 +3,11 @@
 
 **Web and Mobile Developer Enthusiast** 🚀 from Indonesia. 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=arfinrahmat&show_icons=true&bg_color=424344&title_color=fff&icon_color=fff&text_color=d9a618&show_owner=false)
-<br />
-
 ## Github Stats
-![arfinrahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fannan-Fauzan-Fardhurohman&show_icons=true&theme=radical)
+![arfinrahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfinrahmat&show_icons=true&theme=radical)
 
 ## Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fannan-fauzan-fardhurohman&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfinrahmat&show_icons=true&theme=radical)
 
 
 **Current Activity:**
