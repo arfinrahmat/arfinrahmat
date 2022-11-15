@@ -6,11 +6,16 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=arfinrahmat&show_icons=true&bg_color=424344&title_color=fff&icon_color=fff&text_color=d9a618&show_owner=false)
 <br />
 
+## Github Stats
+![arfinrahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fannan-Fauzan-Fardhurohman&show_icons=true&theme=radical)
+
+## Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fannan-fauzan-fardhurohman&show_icons=true&theme=radical)
+
 
 **Current Activity:**
 
 - 💻 I'm currently learning mobile app development using kotlin.
-- 💻 I'm currently learning mobile app development using react native.
 - 💻 I’m currently learning Javascript.
 - 🤔 My interests are learning about mobile and web development, include front-end and backend development.
 - 💼 I’m Bachelor's degree in Industrial Engineering.
