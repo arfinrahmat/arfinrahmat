@@ -1,7 +1,9 @@
 
 ### Hi there 👋, I'm Arfin!
 
-**Web and Mobile Developer Enthusiast** 🚀 from Indonesia. 
+**Web and Mobile Developer Enthusiast** 🚀 from Indonesia.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arfinrahmat&label=Profile%20views&color=0e75b6&style=flat" alt="arfinrahmat" /> </p>
 
 ## Github Stats
 ![arfinrahmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfinrahmat&show_icons=true&theme=radical)
